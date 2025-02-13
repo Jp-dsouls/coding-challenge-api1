@@ -2,8 +2,6 @@
 
 ## 1. Requisitos previos
 
-
-
 | Nombre | Version    | Descripcion                |
 | :-------- | :------- | :------------------------- |
 | `Node` | `20.17.0` | **Required**. |
@@ -17,9 +15,7 @@
   git clone https://github.com/Jp-dsouls/coding-challenge-api1
 ```
 
-
 ## 3. Instalar dependencias
-
 
 ```bash
   npm install
